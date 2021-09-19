@@ -1,0 +1,9 @@
+.products__row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.products__item {
+  background-color: black;
+  color: white;
+}
